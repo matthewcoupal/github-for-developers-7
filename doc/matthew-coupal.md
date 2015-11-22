@@ -5,3 +5,4 @@
   - **Favorite Food:** Strawberries
   - **Favorite Color:** Green
   - **Hobby:** Photography & Design
+  - **Favorite Animal:** Octocat
